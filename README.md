@@ -1,0 +1,2 @@
+# CrudDjangoAjax
+Crud Django Ajax
